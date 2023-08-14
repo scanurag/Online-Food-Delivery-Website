@@ -361,15 +361,15 @@ body{
 	background-color: white;
 	content: '';
 	position: absolute;
-	padding: 6px 1px 3px 1px;
-	margin: -12px 125px 88px -29px;
-	border: 12px solid black;
+	padding: 7px -10px 97px 4px;
+	margin: 81px 206px -154px 679px;
+	border: 11px solid black;
 	background: linear-gradient(135deg,black,rgb(27, 111, 174),rgb(27, 111, 174),rgb(84, 123, 161),rgb(143, 123, 122));
-	font-size: 40px;
-	top: 25px;
-	right: 571px;
-	bottom: 479px;
-	left: 616px;
+	font-size: 54px;
+	top: -76px;
+	right:550px;
+	bottom: 780px;
+	left: 7px;
 	border-radius: 50%;
 
 
